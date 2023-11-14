@@ -29,7 +29,6 @@ For BRISQUE Score in range [Low, High) the particular method size is applied
 |   Low(>=) |   High(<) | Best Method   |
 |------:|-------:|:--------------|
 |     1 |     21 | None          |
-|    16 |     21 | Weiner        |
 |    21 |     36 | Weiner        |
 |    36 |    106 | Gaussian      |
 |   106 |    111 | NAFNet        |
